@@ -1,0 +1,33 @@
+{
+  "name": "my22years.com",
+  "description": "生まれて、すみません",
+  "version": "1.0.0",
+  "author": "orlo <ow.cc@outlook.com>",
+  "dependencies": {
+    "@types/react-helmet": "^5.0.6",
+    "gatsby": "next",
+    "gatsby-link": "^1.6.40",
+    "gatsby-plugin-react-helmet": "^2.0.10",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-helmet": "^5.2.0"
+  },
+  "keywords": [
+    "gatsby",
+    "my22years"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write 'src/**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://orlowang@bitbucket.org/orlowang/my22years"
+  }
+}
