@@ -18,7 +18,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build && cp google40a19b3e1137d4d0.html public/google40a19b3e1137d4d0.html",
+    "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1"
